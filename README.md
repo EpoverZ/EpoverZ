@@ -29,8 +29,8 @@ Clean code, real deployments, no unnecessary complexity.
 
 | Product | Description | Stack | Status |
 |---|---|---|---|
-| [GenReZume](https://genrezume.in) | ATS resume builder with AI-powered job match analysis and resume parsing | React · Vite · Firebase · Fine-tuned LLM | 🟡 Development |
-| [EpoverZ](https://epoverz.epoverz-studio.workers.dev/) | Studio website | React · Vite · Tailwind CSS |  🟢 Live|
+| [GenReZume](https://genrezume.in) | ATS resume builder with AI-powered job match analysis and resume parsing | React · Vite · Firebase · Fine-tuned LLM | 🔵 Live(Beta) |
+| [EpoverZ](https://epoverz.epoverz-studio.workers.dev/) | Studio website | React · Vite · Tailwind CSS |  🟢 Live |
 
 ---
 
