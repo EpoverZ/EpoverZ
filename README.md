@@ -65,13 +65,8 @@ intelligent features — built into web applications without a complex backend.
 
 ---
 
-## Founded by
 
-**Monish Raj A** · Founder
 
-**Nitish P** · Co-Founder
-
----
 
 ## Contact
 
