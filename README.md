@@ -1,79 +1,38 @@
-<div align="center">
+# EpoverZ Product & Web Development Studio
 
-<br>
+<p align="left">
+  <strong>Status:</strong> Active &nbsp;|&nbsp; 
+  <strong>Location:</strong> Chennai, India
+</p>
 
-# EpoverZ™
-
-### Product & Web Development Studio
-
-<br>
-
-![Status](https://img.shields.io/badge/Status-Active-6D28D9?style=flat-square)
-&nbsp;
-![Since](https://img.shields.io/badge/Since-2024-6D28D9?style=flat-square)
-&nbsp;
-![Location](https://img.shields.io/badge/Chennai-India-6D28D9?style=flat-square)
-
-<br>
-
-</div>
+We build functional web applications, API integrations, and AI-powered tools focused on user flow, structural clarity, and clean deployment.
 
 ---
 
-We build web applications, API integrations, and AI-powered tools.
-Clean code, real deployments, no unnecessary complexity.
+### 🚀 Featured Products
+
+*   **GenReZume** `Live - Beta`
+    *   ATS resume builder with AI-powered job match analysis and structured resume parsing.
+    *   🌐 **Website:** [genrezume.epoverz.workers.dev](https://genrezume.epoverz.workers.dev)
+*   **EpoverZ Web Studio** `Live`
+    *   Official web portal and portfolio.
+    *   🌐 **Website:** [epoverz-studio.epoverz.workers.dev](https://epoverz-studio.epoverz.workers.dev)
 
 ---
 
-## Products
+### 🛠️ Services & Solutions
 
-| Product | Description | Stack | Status |
-|---|---|---|---|
-| [GenReZume](https://genrezume.epoverz.workers.dev/) | ATS resume builder with AI-powered job match analysis and resume parsing | React · Vite · Firebase · Fine-tuned LLM | 🔵 Live(Beta) |
-| [EpoverZ](https://epoverz-studio.epoverz.workers.dev/) | Studio website | React · Vite · Tailwind CSS |  🟢 Live |
-
----
-
-## Services
-
-**Web Development**
-Static sites, landing pages, multi-page business sites, web applications
-with authentication and real-time databases.
-
-**API & Integrations**
-Third-party API connections, payment gateways, form handling,
-AI API integration, Firebase backends.
-
-**AI Integration**
-Connecting products to AI APIs — text analysis, document processing,
-intelligent features — built into web applications without a complex backend.
+*   **Web Application Architecture**
+    *   Structuring and designing clean, multi-page business sites and web apps.
+*   **API & Integrations**
+    *   Third-party API connections, payment flow setup, and AI API integration.
+*   **AI Tool Integration**
+    *   Connecting intelligent document processing and text analysis tools into web frontends.
 
 ---
 
-## Stack
+### 📬 Contact & Connect
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1C1C1C?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Netlify](https://img.shields.io/badge/Netlify-0E1E25?style=flat-square&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-
-
-
-## Contact
-
-epoverz.studio@gmail.com
-
----
-
-<div align="center">
-<sub>Estd. March 2024 · Chennai, Tamil Nadu, India</sub>
-</div>
+*   📧 **Email:** [epoverz.studio@gmail.com](mailto:epoverz.studio@gmail.com)
+*   🌐 **X (Twitter):** [@epoverz](https://x.com)
+*   📸 **Instagram:** [@epoverz.studio](https://instagram.com)
