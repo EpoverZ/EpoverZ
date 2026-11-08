@@ -36,3 +36,4 @@ We build functional web applications, API integrations, and AI-powered tools foc
 *   📧 **Email:** [epoverz.studio@gmail.com](mailto:epoverz.studio@gmail.com)
 *   🌐 **X (Twitter):** [@epoverz](https://x.com)
 *   📸 **Instagram:** [@epoverz.studio](https://instagram.com)
+*   ⓕ  **Facebook:** [@epoverzstudio](https://www.facebook.com/EpoverZ/)
